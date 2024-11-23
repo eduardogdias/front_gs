@@ -10,6 +10,6 @@ Vídeo Youtube:
 https://www.youtube.com/watch?v=NGQYI0qP0Ic
 
 Link Github:
-https://github.com/eduardogdias/java_gs
+https://github.com/eduardogdias/front_gs
 
 
