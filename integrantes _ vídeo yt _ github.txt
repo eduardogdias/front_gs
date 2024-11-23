@@ -1,0 +1,15 @@
+Grupo: SunEcs
+Turma: 1TDSB
+
+Integrantes:
+-  Cauan Matos Moura Silva- 558821
+-  Eduardo Guilherme Dias- 557886
+-  Sérgio Henrique dos Santos Wahhab- 555901
+
+Vídeo Youtube:
+https://www.youtube.com/watch?v=NGQYI0qP0Ic
+
+Link Github:
+https://github.com/eduardogdias/java_gs
+
+
